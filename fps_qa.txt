@@ -1,0 +1,35 @@
+1. What are three positive things people say about you? Which one of the three you don’t agree with?
+- People say that I'm consistent, ambitious and patient. I don't agree with being patient because I always want things to happen faster but I don't show it.
+
+2. What types of personalities do you work with best? If you could form a team of one back-end developer, one front end developer, one product owner and you, describe the types of people you would prefer in the team.
+- I would prefer for the people in my team to be more kind, team players, creative, passionate, willingness to improve, sense of emergency. 
+
+3. Give an example of when you compete hard and won.
+- I recently completed an exam in Softuni, and I'm pleased to share that I achieved a excellent grade. This experience not only reflects my commitment, but also demonstrates my understanding of the material.
+
+4. Give me an example of how you multitask successfully.
+- When I worked as a vendor consultant I was studying in Softuni and I had lections. When I was at work I had to consult people and I watched my lections and doing task for Softuni. Simultaneously, I had to serve customers and help them.
+
+5. Give me a real-life example of how you failed.
+- I haven't study enough for an examp in UNWE, so I didn't pass it, because I had to prepare for state exam, but i manage to pass it on the second try, when I had more time to prepare.
+
+6. If life is a software, describe 5 bugs you have spotted.
+- Emotional Decision-Making; Distraction; Lack of Motivation; People who abuse the power they have; Always in hurry
+
+7. Describe a time when you had difficulty communicating your thoughts clearly to an individual or group.
+- I've recently found myself spending less time with friends because my focus is on building a career, whereas they prioritize socializing and partying. I've attempted to communicate the importance of taking control of one's future to them, but there's a challenge in expressing my viewpoint clearly due to our differing priorities. 
+
+8. Tell me about a situation in which you’ve made a mistake that affected others.
+- When we went to an open lecture that was not at our university, we had to use public transport with friends. I used mooveit to follow the route, but I thought that if we took another bus we would get there faster, but I was wrong. So we were late for the lecture, the others were not happy and I had to apologize to them and bought them coffee.
+
+9. Tell me about a situation when you provided full support for a team decision that you didn’t agree with.
+- Еvery new year my friends and I make a shopping list, every time too many fireworks are bought but there is nothing I can do about it. I don't like it because it's wasted money and we can use it for something else or donate it.
+
+10. If you start your own brand today, what would be the slogan of your brand?
+- If you can see it in your head and you have the courage to speak it, it will happen.
+
+11. Let say that your ‘bad day’ is a bug. What type of testing can you apply, so the bug wouldn’t appear anymore?
+- I would use regression testing, because I evolve everyday and I don't want previous bugs to appear again.
+
+12. Give an example of an occasion when you used logic to solve a problem.
+- In my university, I created a sheet, to help me prepare for exams. I found this practice extremely beneficial in organizing information and my understanding of the course material.
